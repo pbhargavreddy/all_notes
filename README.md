@@ -1,3 +1,3 @@
 # NOTE
 __________
-This respo is for my ppractice purpose. This repository does not contain any project's source code.
+This respo is for my practice purpose. This repository does not contain any project's source code.
